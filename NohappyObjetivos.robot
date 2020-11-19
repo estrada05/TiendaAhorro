@@ -5,10 +5,8 @@ Library             Selenium2Library
 
 *** Test Cases ***	
 G001 Alcance
-	Open Browser   	http://localhost:26694/PPI/index.jsp	chrome
+	Open Browser   	http://localhost:36963/WebTiendaAhorro1/index.jsp	chrome
 	sleep  3s
 	Click Element	xpath=/html/body/header/div/nav/div/div[2]/div/ul/li[3]/a
-	Title Should Be    Alcance
-  	 Page Should Contain    Alcance
     	sleep  5s
     	Close Browser

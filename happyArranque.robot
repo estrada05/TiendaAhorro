@@ -5,7 +5,7 @@ Library             Selenium2Library
 
 *** Test Cases ***	
 G001 Alcance
-	Open Browser   	http://localhost:26694/PPI/index.jsp	chrome
+	Open Browser   	http://localhost:36963/WebTiendaAhorro1/index.jsp	chrome
     	sleep  5s
 	Title Should Be     Tienda-Ahorro
   	 Page Should Contain    Tienda-Ahorro
