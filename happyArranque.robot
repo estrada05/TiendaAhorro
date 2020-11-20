@@ -10,3 +10,6 @@ G001 Alcance
 	Title Should Be     Tienda-Ahorro
   	 Page Should Contain    Tienda-Ahorro
     	Close Browser
+
+
+CuartaS SAPO FASTIDIOSO TETA
