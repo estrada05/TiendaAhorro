@@ -4,7 +4,7 @@
  
     <head>
         <!-- Titulo-->
-        <title>Tienda-Ahorro</title>
+        <title>PRUEBA ACTUALIZACION</title>
         <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-96x96.png">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="format-detection" content="telephone=no">
